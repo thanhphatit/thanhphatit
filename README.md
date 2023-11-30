@@ -30,7 +30,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - 🔭 I’m working as a DevOps Engineer and create tools binary by bash shell.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve write blog and read tech articles.
-- 📫 How to reach me: &nbsp;[![ITBLOGNOTE]](https://www.itblognote.com)
+- 📫 How to reach me: &nbsp;ITBLOGNOTE(https://www.itblognote.com)
 
 ---
 
