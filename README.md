@@ -11,11 +11,11 @@
 ## I'm a Data Scientist, AI Engineer, and Sports enthusiast!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m working at AIA as Data Scientist, Ex-VinBrain (proud to be apart of them)
-- 🌱 I’m currently learning DevOps, Cloud, Recent Advances in NLP and Deep Learning 🤣
-- 👯 I’m looking to collaborate with other Data/Applied Scientist
-- 🥅 2022 Goals: Learn more about K8s, MLOps
-- ⚡ Fun fact: I love cycling and watching fish swim
+- 🌱 Demo
+- 🌱 Demo 🤣
+- 👯 Demo
+- 🥅 Demo
+- ⚡ Demo
 
 <!-- ### Connect with me:
 
