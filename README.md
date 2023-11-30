@@ -44,6 +44,6 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
+- [How to disable su access for sudo users](https://www.itblognote.com/2022/10/how-to-disable-su-access-for-sudo-users.html)
+- [Build system login security for ES on Kibana X Pack](https://www.itblognote.com/2022/09/build-system-login-security-es-kibana-x-pack.html)
+- [Build CDN cache for s3 with both cloudflare and aws cloudfront](https://www.itblognote.com/2022/08/build-cdn-cache-s3-with-both-cloudflare-and-cloudfront.html)
