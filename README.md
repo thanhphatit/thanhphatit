@@ -44,6 +44,6 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### ✍️ Blog Posts : 
-- [How to disable su access for sudo users on Linux](https://www.itblognote.com/2022/10/how-to-disable-su-access-for-sudo-users.html)
-- [Build system login security for ES on Kibana X Pack](https://www.itblognote.com/2022/09/build-system-login-security-es-kibana-x-pack.html)
+- [How to disable su and sudo -i access for sudo users and disable file bin on Linux](https://www.itblognote.com/2022/10/how-to-disable-su-access-for-sudo-users.html)
+- [Build system Login and Security for ES and Kibana by X-Pack](https://www.itblognote.com/2022/09/build-system-login-security-es-kibana-x-pack.html)
 - [Build CDN cache for S3 with both Cloudflare and AWS Cloudfront](https://www.itblognote.com/2022/08/build-cdn-cache-s3-with-both-cloudflare-and-cloudfront.html)
