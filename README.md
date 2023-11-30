@@ -1,4 +1,4 @@
-# Hi there, I'm Minh - aka [demdecuong][github] 👋 
+# Hi there, I'm Phat - aka [thanhphatit][github] 👋 
 
 <!-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -91,11 +91,11 @@
 <details> -->
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
-  <img align="left" alt="demdecuong's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=demdecuong&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="thanhphatit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thanhphatit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
-[github]: https://github.com/demdecuong
+[github]: https://github.com/thanhphatit
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
