@@ -16,7 +16,7 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=thanhphatit&style=flat-square&color=blue" alt=""/>
     <h1>
-        Hey there, I'm Phat - aka [thanhphatit][github]
+        Hey there, I'm Phat
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
@@ -25,7 +25,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam, you can call me is [thanhphatit][github].
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
