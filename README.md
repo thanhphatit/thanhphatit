@@ -35,12 +35,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 ### 🛠 &nbsp;GitHub Stats :
-<div>
-    <!-- <img align="left" alt="thanhphatit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thanhphatit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhphatit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://git.io/streak-stats)
-
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhphatit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -54,6 +49,4 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### ✍️ Blog Posts : 
 - [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
+- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
