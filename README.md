@@ -24,9 +24,9 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?quote=Your&nbsp;Quote&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
-  </a>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?quote=Your&nbsp;Quote&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
+    </a>
 </p>
 
 ### :woman_technologist: &nbsp;About Me :
@@ -43,23 +43,19 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ### 🔥 & 🛠 &nbsp; My Stats :
 
 <table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphatit&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=thanhphatit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats">
-      </a>
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphatit&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats">
+                <img src="https://github-readme-stats.vercel.app/api?username=thanhphatit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="GitHub Stats">
+            </a>
+        </td>
+    </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphatit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhphatit&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thanhphatit&theme=dracula&background=000000)](https://git.io/streak-stats)
 
