@@ -17,13 +17,12 @@
     <img src="https://komarev.com/ghpvc/?username=thanhphatit&style=flat-square&color=blue" alt=""/>
     <h1>
         Hey there, I'm ThanhPhatIT
+        [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your&nbsp;Quote&type=horizontal&border=true&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
 </div>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your&nbsp;Quote&type=horizontal&border=true&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### :woman_technologist: &nbsp;About Me :
 
