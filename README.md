@@ -23,12 +23,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<p align="center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?quote=Your&nbsp;Quote&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
-    </a>
-</p>
-
 ### :woman_technologist: &nbsp;About Me :
 
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Vietnam.
@@ -65,3 +59,9 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - [How to disable su and sudo -i access for sudo users and disable file bin on Linux](https://www.itblognote.com/2022/10/how-to-disable-su-access-for-sudo-users.html)
 - [Build system Login and Security for ES and Kibana by X-Pack](https://www.itblognote.com/2022/09/build-system-login-security-es-kibana-x-pack.html)
 - [Build CDN cache for S3 with both Cloudflare and AWS Cloudfront](https://www.itblognote.com/2022/08/build-cdn-cache-s3-with-both-cloudflare-and-cloudfront.html)
+
+<p align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?quote=Your&nbsp;Quote&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
+    </a>
+</p>
