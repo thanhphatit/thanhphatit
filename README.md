@@ -62,6 +62,6 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?quote=Your&nbsp;Quote&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?quote=thanh&nbsp;phatit&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
     </a>
 </p>
