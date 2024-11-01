@@ -62,6 +62,6 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 <p align="center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
-        <img src="https://quotes-github-readme.vercel.app/api?quote=The&nbsp;only&nbsp;person&nbsp;you&nbsp;should&nbsp;try&nbsp;to&nbsp;be&nbsp;better&nbsp;than&nbsp;is&nbsp;the&nbsp;person&nbsp;you&nbsp;were&nbsp;yesterday.&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?quote=When&nbsp;you&nbsp;want&nbsp;to&nbsp;give&nbsp;up,&nbsp;remember&nbsp;why&nbsp;you&nbsp;started.&type=horizontal&border=true&theme=dracula" alt="Readme Quotes">
     </a>
 </p>
